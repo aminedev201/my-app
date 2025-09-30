@@ -1,4 +1,4 @@
-import PostDetails from "@/components/postdetails";
+import PostDetails from "@/components/postDetails";
 import SuspenseJsx from "@/components/suspenseJsx";
 import Link from "next/link";
 import { Suspense } from "react";
